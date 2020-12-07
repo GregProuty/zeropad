@@ -5,4 +5,4 @@
 
 ## Complexity Analysis:
 #### l = string length, n = number of integers in string
-#### O = 2l + nl
+#### O = l + nl
